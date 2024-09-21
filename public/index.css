@@ -1,0 +1,49 @@
+#oldWays {
+  margin-left: 50vh;
+}
+
+.word1 {
+  color: rgb(0, 133, 250);
+}
+
+.word2 {
+  margin-top: 10vh;
+  font-size: 70px;
+  color: rgb(255, 0, 0);
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul li {
+  font-size: 50px;
+  color: rgb(255, 0, 0);
+  font-style: italic;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: rgb(255, 183, 0);
+}
+
+.contact-info {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+.contact-info h2 {
+  color: #333;
+}
+
+.contact-info ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-info li {
+  margin-bottom: 10px;
+}
